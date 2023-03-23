@@ -1,0 +1,7 @@
+2023-03-23 13:56:45 INFO  FileReader:21 - File URL have been gotten
+2023-03-23 13:56:45 INFO  FileReader:24 - Byte array from file have been gotten
+2023-03-23 13:56:45 INFO  FileReader:27 - Message from file have been gotten
+2023-03-23 13:57:33 ERROR FileReader:31 - java.lang.NullPointerException: Cannot invoke "java.net.URL.toURI()" because the return value of "java.lang.ClassLoader.getSystemResource(String)" is null
+2023-03-23 13:57:59 INFO  FileReader:21 - File URL have been gotten
+2023-03-23 13:57:59 INFO  FileReader:24 - Byte array from file have been gotten
+2023-03-23 13:57:59 INFO  FileReader:27 - Message from file have been gotten
