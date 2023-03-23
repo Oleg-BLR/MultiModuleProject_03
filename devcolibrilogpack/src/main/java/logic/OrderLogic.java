@@ -19,7 +19,7 @@ public class OrderLogic {
         // добавление товара в корзину
         System.out.println("Товар добавлен в корзину");
 //         логируем ошибку
-        log.error("Это сообщение ошибки");
-        log.info("Это сообщение ошибки");
+        log.error("Это сообщение ошибки log.error");
+        log.info("Это сообщение ошибки log info");
     }
 }
